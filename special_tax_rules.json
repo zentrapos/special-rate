@@ -1,0 +1,15 @@
+[
+  {
+    "rule_name": "tfn_no_abn_withholding",
+    "rate": 0.47,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "rule_name": "under_18_threshold",
+    "threshold": 350,
+    "hours_threshold": 30,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  }
+]
