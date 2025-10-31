@@ -1,0 +1,38 @@
+[
+  {
+    "day_type": "saturday",
+    "rate_percent": 150,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "day_type": "sunday",
+    "rate_percent": 200,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "day_type": "public_holiday",
+    "rate_percent": 250,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "day_type": "overtime",
+    "rate_percent": 150,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "day_type": "annual_leave_loading",
+    "rate_percent": 17.5,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "day_type": "long_service_leave_pay",
+    "rate_percent": 100,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  }
+]
