@@ -14,6 +14,29 @@
     "rate": 0.19,
     "effective_from": "2024-07-01",
     "effective_to": null
+  },
+  {
+    "min_income": 45001,
+    "max_income": 120000,
+    "base_tax": 5092,
+    "rate": 0.325,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "min_income": 120001,
+    "max_income": 180000,
+    "base_tax": 29467,
+    "rate": 0.37,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "min_income": 180001,
+    "max_income": null,
+    "base_tax": 51667,
+    "rate": 0.45,
+    "effective_from": "2024-07-01",
+    "effective_to": null
   }
-  // ... more brackets
 ]
