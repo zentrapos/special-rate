@@ -1,0 +1,20 @@
+[
+  {
+    "leave_type": "annual",
+    "rate_percent": 7.692,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "leave_type": "personal",
+    "rate_percent": 3.846,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "leave_type": "long_service",
+    "rate_percent": 0.438,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  }
+]
