@@ -1,11 +1,26 @@
 [
   {
     "min_income": 0,
-    "max_income": 120000,
+    "max_income": 135000,
+    "rate": 0.3,
     "base_tax": 0,
-    "rate": 0.325,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "min_income": 135000.01,
+    "max_income": 190000,
+    "rate": 0.37,
+    "base_tax": 39000,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "min_income": 180000.01,
+    "max_income": null,
+    "rate": 0.45,
+    "base_tax": 61200,
     "effective_from": "2024-07-01",
     "effective_to": null
   }
-  // ... more brackets
 ]
