@@ -1,0 +1,11 @@
+[
+  {
+    "min_income": 0,
+    "max_income": 120000,
+    "base_tax": 0,
+    "rate": 0.325,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  }
+  // ... more brackets
+]
