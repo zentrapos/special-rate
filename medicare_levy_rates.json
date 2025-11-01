@@ -1,7 +1,23 @@
 [
   {
+    "min_income": 0,
+    "max_income": 26000,
+    "rate": 0,
     "effective_from": "2024-07-01",
-    "effective_to": null,
-    "rate": 0.02
+    "effective_to": null
+  },
+  {
+    "min_income": 26001,
+    "max_income": 90000,
+    "rate": 0.02,
+    "effective_from": "2024-07-01",
+    "effective_to": null
+  },
+  {
+    "min_income": 90001,
+    "max_income": null,
+    "rate": 0.025,
+    "effective_from": "2024-07-01",
+    "effective_to": null
   }
 ]
